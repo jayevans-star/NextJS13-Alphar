@@ -5,8 +5,6 @@ Live demo is up at [nextjs13.app](https://www.nextjs13.app)
 > **Warning**
 > This app is a work in progress. Site may be unstable.
 
-![Home and Feed pages](https://user-images.githubusercontent.com/26501999/223235925-b2b6c599-cc43-436c-9cd1-f05cfcc454f2.jpg)
-
 ## Features
 
 - Using new **Next.js 13 Beta**
@@ -45,6 +43,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## License
 
-Licensed under the [GNU Affero General Public License v3.0](https://github.com/yaseenmustapha/nextjs13-app/blob/main/LICENSE).
